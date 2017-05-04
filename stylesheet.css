@@ -1,0 +1,13 @@
+h1, h2, {
+font-family: 'oswald', san-serif;
+text-transform: uppercase;
+}
+p {
+  font-family: Helvetica, Arial, sans-serif; 
+}
+.feature {
+  background: url("https://s3.amazonaws.com/codecademy-content/projects/move/feature.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
+  text-align: center;
+}
