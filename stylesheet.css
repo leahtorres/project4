@@ -38,3 +38,7 @@ p.italic {
 p.oblique {
     font-style: oblique;
 }
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #CC3333;
+}
